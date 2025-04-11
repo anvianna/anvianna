@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anvianna
 - 👀 I’m interested in Control Process and Cybersecurity
-- 🌱 I’m currently learning .NET
+- 🌱 I’m currently learning rust
 - 📫 How to reach me email: andre.n.vianna@outlook.com
 
 <!---
